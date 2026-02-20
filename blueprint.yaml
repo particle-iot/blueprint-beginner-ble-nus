@@ -16,6 +16,10 @@ integrations: []
 supportedDevices:
   - name: Photon 2 (P2)
     link: https://docs.particle.io/reference/datasheets/wi-fi/p2-datasheet/
+  - name: Muon
+    link: https://docs.particle.io/reference/datasheets/m-series/muon-datasheet/
+  - name: M-SoM
+    link: https://docs.particle.io/reference/datasheets/m-series/msom-datasheet/
 hardwareDependencies:
   - name: Particle device with BLE (e.g., P2)
   - name: USB cable
